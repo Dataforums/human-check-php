@@ -40,7 +40,7 @@ around **20**. Both have the right answer; only one earns the credit.
 ## Install
 
 ```bash
-composer require realtrafficx/human-check-php
+composer require Dataforums/human-check-php
 ```
 
 Or, with no composer at all:
