@@ -1,0 +1,21 @@
+{
+  "name": "realtrafficx/human-check-php",
+  "description": "Dependency-free behavioural CAPTCHA for PHP. Scores pointer movement, response timing, tab visibility and clock agreement. No third-party service, no tracking.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["captcha", "bot-detection", "human-verification", "spam", "php"],
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "HumanCheck\\": "src/"
+    }
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  },
+  "minimum-stability": "stable"
+}
