@@ -1,5 +1,5 @@
 {
-  "name": "vigneshshetty/human-check-php",
+  "name": "Dataforums/human-check-php",
   "description": "Dependency-free behavioural CAPTCHA for PHP. Scores pointer movement, response timing, tab visibility and clock agreement. No third-party service, no tracking.",
   "type": "library",
   "license": "MIT",
