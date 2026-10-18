@@ -8,7 +8,7 @@ solves the puzzle correctly **still fails** — because it did not move a
 pointer, or it answered in 40ms, or its tab was hidden.
 
 ```
-composer require realtrafficx/human-check-php
+composer require Dataforums/human-check-php
 ```
 
 ---
